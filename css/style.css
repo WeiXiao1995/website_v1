@@ -158,6 +158,18 @@ Main Components
   background-image: url("../img/fulls/art/21.jpg");
   background-size: cover;
 }
+.cd-section:nth-of-type(9) .cd-half-block:first-of-type {
+  background-image: url("../img/fulls/guilin/3.jpg");
+  background-size: cover;
+}
+.cd-section:nth-of-type(10) .cd-half-block:first-of-type {
+  background-image: url("../img/fulls/neimenggu/3.jpg");
+  background-size: cover;
+}
+.cd-section:nth-of-type(11) .cd-half-block:first-of-type {
+  background-image: url("../img/fulls/etc/1.jpg");
+  background-size: cover;
+}
 @media only screen and (min-width: 1170px) {
   .cd-half-block {
     height: 100vh !important;
